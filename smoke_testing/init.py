@@ -13,6 +13,11 @@ Add a new test:
 
 """
 
+import internal.net
+import internal.clients
+import internal.http_session
+import internal.transport
+import internal.session
 import sys
 import smoke_utils
 import glob

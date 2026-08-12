@@ -28,3 +28,5 @@ tallation.md
 nginx:latest.json
 results.json
 customFilename.txt
+config.bat
+node_modules
